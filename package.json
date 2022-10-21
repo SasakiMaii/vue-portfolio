@@ -27,6 +27,7 @@
     "@storybook/vue3": "^6.5.12",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "babel-loader": "^8.2.5",
     "eslint": "^7.32.0",
